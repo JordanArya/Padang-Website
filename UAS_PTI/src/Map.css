@@ -1,0 +1,24 @@
+.leaflet-container{
+    width: 100%;
+    height: 100%;
+    /* overflow: hidden; */
+}
+
+.MapCointainer{
+    border: 2px solid red;
+    width: 50vw;
+    height: 50vh;
+}
+
+.leaflet-pane{
+    display: flex;
+    max-height: 500px;
+}
+
+
+.leaflet-routing-geocoders input{
+    border-radius: 0.5rem; 
+    border-color: red;
+    font-size: large;
+  }
+  
